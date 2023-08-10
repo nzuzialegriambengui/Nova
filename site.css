@@ -1,0 +1,6 @@
+*{margin: 0px; padding: 0px;}
+body{position: relative;}
+div{max-width: 300px; min-width: 300px; border: solid 2px black;}
+.centro{margin-left:335px; max-width: 800px; min-width: 700px; position: absolute; background-image: linear-gradient(to right, rgb(223, 223, 237), rgb(118, 118, 196),rgb(70, 70, 102),rgb(114, 114, 159));}
+.direita{margin-left: 1060px; position: absolute;}
+.esquerda{margin-left: 8px; position: absolute;}
